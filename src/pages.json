@@ -17,6 +17,10 @@
 		"navigationBarTextStyle": "black",
 		"navigationBarTitleText": "uni-app",
 		"navigationBarBackgroundColor": "#F8F8F8",
-		"backgroundColor": "#F8F8F8"
+		"backgroundColor": "#F8F8F8",
+		"usingComponents": {
+			"van-tabbar": "/wxcomponents/@vant/weapp/tabbar/index",
+			"van-tabbar-item": "/wxcomponents/@vant/weapp/tabbar-item/index"
+		}
 	}
 }
